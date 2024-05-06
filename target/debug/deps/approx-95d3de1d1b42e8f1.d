@@ -1,0 +1,11 @@
+/home/rickrick/RustroverProjects/Compass/target/debug/deps/libapprox-95d3de1d1b42e8f1.rmeta: /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/lib.rs /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/abs_diff_eq.rs /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/relative_eq.rs /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/ulps_eq.rs /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/macros.rs
+
+/home/rickrick/RustroverProjects/Compass/target/debug/deps/libapprox-95d3de1d1b42e8f1.rlib: /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/lib.rs /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/abs_diff_eq.rs /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/relative_eq.rs /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/ulps_eq.rs /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/macros.rs
+
+/home/rickrick/RustroverProjects/Compass/target/debug/deps/approx-95d3de1d1b42e8f1.d: /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/lib.rs /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/abs_diff_eq.rs /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/relative_eq.rs /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/ulps_eq.rs /home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/macros.rs
+
+/home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/lib.rs:
+/home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/abs_diff_eq.rs:
+/home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/relative_eq.rs:
+/home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/ulps_eq.rs:
+/home/rickrick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.5.1/src/macros.rs:
